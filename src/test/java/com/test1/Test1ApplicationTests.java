@@ -10,6 +10,7 @@ class Test1ApplicationTests {
 	void contextLoads() {
 		int x=80;
 		int y=12;
+		int z=78;
 	}
 
 }
