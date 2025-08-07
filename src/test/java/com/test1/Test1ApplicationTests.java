@@ -11,8 +11,10 @@ class Test1ApplicationTests {
 		int x=80;
 		int y=12;
 		int z=78;
+system.out.print(doging new work);
 system.out.prinyln(stash);
 system.out.print(doging new work);
+
 	}
 
 }
