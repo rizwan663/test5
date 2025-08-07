@@ -15,6 +15,8 @@ system.out.print(doging new work);
 system.out.prinyln(stash);
 system.out.print(doging new work);
 
+system.out.prinyln(stash);
+
 	}
 
 }
